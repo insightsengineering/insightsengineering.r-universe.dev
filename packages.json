@@ -39,7 +39,7 @@
     "url": "https://github.com/insightsengineering/teal.modules.clinical",
     "branch": "*release"
   },
-    {
+  {
     "package": "teal.modules.general",
     "url": "https://github.com/insightsengineering/teal.modules.general",
     "branch": "*release"

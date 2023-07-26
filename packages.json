@@ -1,0 +1,162 @@
+[
+  {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.osprey",
+    "url": "https://github.com/insightsengineering/teal.osprey",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code",
+    "branch": "*release"
+  },
+  {
+    "package": "osprey",
+    "url": "https://github.com/insightsengineering/osprey",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.transform",
+    "url": "https://github.com/insightsengineering/teal.transform",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.modules.clinical",
+    "url": "https://github.com/insightsengineering/teal.modules.clinical",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.goshawk",
+    "url": "https://github.com/insightsengineering/teal.goshawk",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger",
+    "branch": "*release"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern",
+    "branch": "*release"
+  },
+  {
+    "package": "rlistings",
+    "url": "https://github.com/insightsengineering/rlistings",
+    "branch": "*release"
+  },
+  {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.modules.hermes",
+    "url": "https://github.com/insightsengineering/teal.modules.hermes",
+    "branch": "*release"
+  },
+  {
+    "package": "goshawk",
+    "url": "https://github.com/insightsengineering/goshawk",
+    "branch": "*release"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda",
+    "branch": "*release"
+  },
+  {
+    "package": "teal.modules.helios",
+    "url": "https://github.com/insightsengineering/teal.modules.helios",
+    "branch": "*release"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022",
+    "branch": "*release"
+  },
+  {
+    "package": "formatters",
+    "url": "https://github.com/insightsengineering/formatters",
+    "branch": "*release"
+  },
+  {
+    "package": "verdepcheck",
+    "url": "https://github.com/insightsengineering/verdepcheck",
+    "branch": "*release"
+  },
+  {
+    "package": "random.cdisc.data",
+    "url": "https://github.com/insightsengineering/random.cdisc.data",
+    "branch": "*release"
+  },
+  {
+    "package": "nestcolor",
+    "url": "https://github.com/insightsengineering/nestcolor",
+    "branch": "*release"
+  },
+  {
+    "package": "hermes",
+    "url": "https://github.com/insightsengineering/hermes",
+    "branch": "*release"
+  },
+  {
+    "package": "tern.mmrm",
+    "url": "https://github.com/insightsengineering/tern.mmrm",
+    "branch": "*release"
+  },
+  {
+    "package": "tern.gee",
+    "url": "https://github.com/insightsengineering/tern.gee",
+    "branch": "*release"
+  },
+  {
+    "package": "tern.rbmi",
+    "url": "https://github.com/insightsengineering/tern.rbmi",
+    "branch": "*release"
+  },
+  {
+    "package": "simIDM",
+    "url": "https://github.com/insightsengineering/simIDM",
+    "branch": "*release"
+  },
+  {
+    "package": "sasr",
+    "url": "https://github.com/insightsengineering/sasr",
+    "branch": "*release"
+  },
+  {
+    "package": "ggplot2.utils",
+    "url": "https://github.com/insightsengineering/ggplot2.utils",
+    "branch": "*release"
+  },
+  {
+    "package": "rbmi",
+    "url": "https://github.com/insightsengineering/rbmi",
+    "branch": "*release"
+  }
+]

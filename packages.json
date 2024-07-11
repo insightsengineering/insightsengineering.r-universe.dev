@@ -39,7 +39,7 @@
     "url": "https://github.com/insightsengineering/teal.modules.clinical",
     "branch": "*release"
   },
-    {
+  {
     "package": "teal.modules.general",
     "url": "https://github.com/insightsengineering/teal.modules.general",
     "branch": "*release"
@@ -162,6 +162,26 @@
   {
     "package": "rbmi",
     "url": "https://github.com/insightsengineering/rbmi",
+    "branch": "*release"
+  },
+  {
+    "package": "cards",
+    "url": "https://github.com/insightsengineering/cards",
+    "branch": "*release"
+  },
+  {
+    "package": "cardx",
+    "url": "https://github.com/insightsengineering/cardx",
+    "branch": "*release"
+  },
+  {
+    "package": "chevron",
+    "url": "https://github.com/insightsengineering/chevron",
+    "branch": "*release"
+  },
+  {
+    "package": "dunlin",
+    "url": "https://github.com/insightsengineering/dunlin",
     "branch": "*release"
   }
 ]

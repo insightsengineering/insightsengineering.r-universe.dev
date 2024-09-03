@@ -90,21 +90,6 @@
     "branch": "*release"
   },
   {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda",
-    "branch": "*release"
-  },
-  {
-    "package": "teal.modules.helios",
-    "url": "https://github.com/insightsengineering/teal.modules.helios",
-    "branch": "*release"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022",
-    "branch": "*release"
-  },
-  {
     "package": "formatters",
     "url": "https://github.com/insightsengineering/formatters",
     "branch": "*release"
@@ -112,7 +97,7 @@
   {
     "package": "verdepcheck",
     "url": "https://github.com/insightsengineering/verdepcheck",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "random.cdisc.data",

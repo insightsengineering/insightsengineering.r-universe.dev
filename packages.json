@@ -168,5 +168,10 @@
     "package": "dunlin",
     "url": "https://github.com/insightsengineering/dunlin",
     "branch": "*release"
+  },
+  {
+    "package": "roxy.shinylive",
+    "url": "https://github.com/insightsengineering/roxy.shinylive",
+    "branch": "main"
   }
 ]

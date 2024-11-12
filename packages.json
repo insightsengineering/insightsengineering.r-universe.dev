@@ -173,5 +173,15 @@
     "package": "roxy.shinylive",
     "url": "https://github.com/insightsengineering/roxy.shinylive",
     "branch": "main"
+  },
+  {
+    "package": "rtables.officer",
+    "url": "https://github.com/insightsengineering/rtables.officer",
+    "branch": "main"
+  },
+  {
+    "package": "autoslider.core",
+    "url": "https://github.com/insightsengineering/autoslider.core",
+    "branch": "main"
   }
 ]

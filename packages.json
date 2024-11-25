@@ -77,7 +77,7 @@
   {
     "package": "rtables",
     "url": "https://github.com/insightsengineering/rtables",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "teal.modules.hermes",

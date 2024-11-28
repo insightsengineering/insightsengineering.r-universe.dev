@@ -182,6 +182,6 @@
   {
     "package": "autoslider.core",
     "url": "https://github.com/insightsengineering/autoslider.core",
-    "branch": "main"
+    "branch": "*release"
   }
 ]

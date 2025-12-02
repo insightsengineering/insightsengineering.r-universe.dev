@@ -160,6 +160,11 @@
     "branch": "*release"
   },
   {
+    "package": "crane",
+    "url": "https://github.com/insightsengineering/crane",
+    "branch": "*release"
+  },
+  {
     "package": "chevron",
     "url": "https://github.com/insightsengineering/chevron",
     "branch": "*release"

@@ -66,17 +66,17 @@
   },
   {
     "package": "tern",
-    "url": "https://github.com/insightsengineering/tern",
+    "url": "https://github.com/pharmaverse/tern",
     "branch": "*release"
   },
   {
     "package": "rlistings",
-    "url": "https://github.com/insightsengineering/rlistings",
+    "url": "https://github.com/pharmaverse/rlistings",
     "branch": "*release"
   },
   {
     "package": "rtables",
-    "url": "https://github.com/insightsengineering/rtables",
+    "url": "https://github.com/pharmaverse/rtables",
     "branch": "*release"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "package": "formatters",
-    "url": "https://github.com/insightsengineering/formatters",
+    "url": "https://github.com/pharmaverse/formatters",
     "branch": "*release"
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "package": "rbmi",
-    "url": "https://github.com/insightsengineering/rbmi",
+    "url": "https://github.com/openpharma/rbmi",
     "branch": "*release"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "package": "autoslider.core",
-    "url": "https://github.com/insightsengineering/autoslider.core",
+    "url": "https://github.com/pharmaverse/autoslider.core",
     "branch": "*release"
   },
   {
